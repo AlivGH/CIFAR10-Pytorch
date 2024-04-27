@@ -8,7 +8,7 @@ Training my own deep learning models has exposed me to a plethora of challenges,
 
 Key Skills
 
-Programming 💻
+Programming(python) 💻
 Deep learning 🧠
 MATLAB 🛠️
 
