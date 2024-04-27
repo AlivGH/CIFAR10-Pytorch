@@ -1,14 +1,22 @@
-This project explores the application of deep learning techniques, specifically convolutional neural networks (CNNs), to the CIFAR-10 image classification task. As a mechanical engineering student with a passion for Robotics and AI and recent completion of “Deep Neural Networks with PyTorch” course, the objective was to apply acquired knowledge to a practical challenge.
+Project Overview
 
-The CIFAR-10 dataset, consisting of 60000 pictures in size of 32x32 color images across 10 classes, served as the basis for training and evaluation. Leveraging PyTorch, a CNN architecture was designed and trained to classify images into their respective categories.
+Welcome to my GitHub repository! This project delves into the realm of deep learning, specifically focusing on convolutional neural networks (CNNs), and their application to the CIFAR-10 image classification task. As a mechanical engineering student with a fervent interest in Robotics and AI, and having recently completed the "Deep Neural Networks with PyTorch" course, my objective was to translate acquired knowledge into a practical challenge.
 
-Through experimentation and hands-on implementation, insights were gained into the workings of deep learning models for image classification tasks. The project aims to contribute to personal growth, challenging and expanding upon acquired wisdom in deep learning, and paving the way for future endeavors in robotics and AI.
+Objectives and Learnings
 
-It’s crystal clear that many deep learning models are tested and implemented, proving to be far more effective than a student’s micro project. Nevertheless, training my own deep learning models has made me to encounter both basic and advanced drawbacks in my theory and implementation.  includes improving coding proficiency, utilizing well-known libraries, and selecting the most suitable methods and parameters.
-Related Skills: Deep learning , Programming , Matlab
+Training my own deep learning models has exposed me to a plethora of challenges, ranging from basic to advanced, in both theory and implementation. This journey has been instrumental in enhancing my coding proficiency, leveraging well-known libraries, and discerning the most suitable methods and parameters for effective model training and evaluation.
 
+Key Skills
 
+Programming
+Deep learning
+MATLAB
+Contact Information
 
+Feel free to reach out to me via:
 
-Gmail: alivghasemi@gmail.com
-LinkedIn: www.linkedin.com/in/alivghasemi/
+📫 Email: alivghasemi@gmail.com
+
+✏ LinkedIn: www.linkedin.com/in/alivghasemi/
+
+Thank you for exploring my project! Your feedback and contributions are highly appreciated. Let's continue pushing the boundaries of deep learning together!
